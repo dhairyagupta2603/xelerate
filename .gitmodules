@@ -1,3 +1,0 @@
-[submodule "3rdparty/xinput"]
-	path = 3rdparty/xinput
-	url = https://gitlab.freedesktop.org/xorg/app/xinput.git
