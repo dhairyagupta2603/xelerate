@@ -1,0 +1,3 @@
+[submodule "3rdparty/libxi"]
+	path = 3rdparty/libxi
+	url = https://gitlab.freedesktop.org/xorg/lib/libxi.git
